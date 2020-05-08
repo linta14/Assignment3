@@ -1,0 +1,418 @@
+.head{
+    background-color:#4169E1;
+    height: 50px;
+    padding-top: 7px;
+}
+.image{
+    width:60px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+.twitter{
+    width:32px;
+    cursor: pointer;
+}
+.inst{
+    width:45px;
+    cursor: pointer;
+}
+.tube{
+    width:45px;
+    cursor: pointer;
+}
+.app{
+    width:30px;
+    cursor: pointer;
+}
+p{
+    display:inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    color:white;
+}
+.bt{
+    margin-inline-end: 10px;
+    font-size: 12px;
+    padding: 2px 8px 2px 8px;
+    display: inline-block;
+    cursor: pointer;
+}
+.logo{
+    width:17%;
+    margin-left: 60px;
+    height:80px;
+}
+.bar{
+    display:inline-block;
+    background-color: #fff;
+    position: fixed;
+    position: sticky;
+    top:0px;
+}
+.tool{
+    margin-left:18%;
+    font-size: 12px;
+    padding: 6px 16px 6px 16px;
+    display: inline-block;
+    cursor: pointer;
+    background-color:#4169E1;
+    color:white;
+    border-radius: 20px;
+    border: transparent;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    display: inline;
+}
+.tool1{
+    font-size: 12px;
+    padding: 7px 16px 7px 16px;
+    display: inline-block;
+    cursor: pointer;
+    color:black;
+    border-radius: 20px;
+    border: transparent;
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+select.tool1:hover
+{
+ background-color:#4169E1;
+ color:white;
+}
+.tool2{
+    font-size: 12px;
+    padding: 6px 16px 6px 16px;
+    display: inline-block;
+    cursor: pointer;
+    color:black;
+    background-color:white;
+    border-radius: 20px;
+    border: transparent;
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button.tool2:hover{
+    background-color:#4169E1;
+ color:white;
+}
+.bar{
+    height:70px;
+}
+.pic{
+    width:100%;
+    height:90%;
+}
+.marq{
+    background-color: #4169E1;
+    height:25px;
+    width:80%;
+    margin-left: 10%;
+}
+.para{
+    margin-right: 1px;
+    color: rgb(34, 221, 34);
+}
+.para1{
+    margin-left: 1px;
+    color: white;
+}
+.para2{
+    margin-left: 1px;
+    color: navy;
+}
+.intro{
+      color:#4169E1;
+      margin-left: 400%;
+}
+.duction{
+    margin-left: 280%;
+    color:#6B8E23;
+}
+.dis{
+    display: inline-block; 
+    padding-top: 60px;
+    font-family: sans-serif, Arial, Helvetica ;
+}
+.detail{
+    color:	#4682B4;
+    padding:50px 100px 50px 100px;
+    margin-left: 8%;
+    margin-right: 8%;
+    text-align: justify;
+}
+
+.p{
+    margin: 5px 600px 5px 600px;
+    padding:10px 10px 10px 10px;
+    color:green;
+    font-weight: bold;
+}
+.pone{
+    margin: 5px 600px 5px 600px;
+    padding:50px 10px 10px 10px;
+    color:green;
+    font-weight: bold;
+}
+.list{
+    background-color:  rgb(43, 56, 240);
+    height:300px;
+    width:100;
+}
+.pic1{
+    width:40px; 
+    position: relative;
+    left:125px;
+}
+.list1{
+    padding-top: 80px;
+    margin-left: 7%;
+    display:inline-block;
+    height:200px;
+    width: 22%;
+    color:white;
+    background: rgb(43, 56, 240);
+}
+.list2{
+    display: inline-block;
+    height:200px;
+    width: 22%;
+    color:white;
+    background: rgb(43, 56, 240);
+}
+h1{
+    display:block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    margin: 40px 10px 40px 10px;
+    text-align: center;
+}
+h5{
+    color:white;
+    display:block;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.work{
+    color:#4169E1;
+}
+.work1{
+  color:#6B8E23;
+}
+.work2{
+    margin-left: 30%;
+    padding: 5px 10px 5px 10px;
+    height:10%;
+    width:40%;
+    background-color: whitesmoke;
+}
+.bg{
+    background-color: whitesmoke;
+    height:670px;
+}
+h4{
+    color: #4169E1;
+}
+.sadqa{
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 10%;
+    padding: 30px 30px 30px 30px;
+    height:180px;
+    width:25%;
+    text-align: center;
+    box-shadow: 3px 3px 5px grey;
+    display: inline-block;
+}
+.welfare{
+    background-color: white;
+    margin-left: 40px;
+    padding: 30px 30px 30px 30px;
+    height:180px;
+    width:25%;
+    text-align: center;
+    box-shadow: 3px 3px 5px grey;
+    display: inline-block;
+}
+.pic2{
+    width:60px; 
+    position: relative;
+    left:10px;
+    cursor: pointer;
+}
+.main{
+    
+    width: 100%;
+    height:350px;
+    padding-top:40px ;
+    
+}
+.heading{
+    color:#4169E1;
+    display:inline;
+    font-family: serif,Cambria, Cochin, Georgia, Times, 'Times New Roman';
+    margin-left: 10%;
+}
+.heading1{
+    color: #4169E1;
+    display:inline;
+    font-family:serif, Cambria, Cochin, Georgia, Times, 'Times New Roman' ;
+    margin-left: 23%;
+}
+.mission{
+    margin-top:30px ;
+    width: 65%;
+    height:300px;
+    margin-left:4%;
+    display: inline-block;
+    
+}
+.mission1{
+    margin-top:10px ;
+    width: 20%;
+    height:200px;
+    display: inline-block;
+    border-top: 1px solid rgb(231, 228, 228);
+}
+.m1{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left:10%;
+    padding: 30px 2px 30px 2px;
+    height:70px;
+    width:40%;
+    border: 1px;
+    border: 1px solid rgb(231, 228, 228);
+    display: inline-block;
+}
+.pic3{
+    width:30px; 
+    cursor: pointer;
+}
+.m1o{
+    display: inline-block;
+}
+.h5{
+    margin-left: 30px;
+    color: #4169E1;
+    font-family:serif, Cambria, Cochin, Georgia, Times, 'Times New Roman' ;
+}
+.m2{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left:2%;
+    padding: 30px 2px 30px 2px;
+    height:70px;
+    width:40%;
+    border: 1px solid rgb(231, 228, 228);
+    display: inline-block;
+}
+.p3{
+    color:darkslategray;
+    text-align:left;
+    padding: 1px 1px 1px 1px;
+    margin-left: 5px;
+    
+}
+.work3{
+    color:#4169E1;
+    margin-left: 380%;
+}
+.work4{
+    color:#6B8E23;
+    margin-left: 280%;
+}
+.p2{
+    margin: 5px 580px 5px 580px;
+    padding:10px 10px 10px 10px;
+    color:green;
+    font-weight: bold;
+}
+.pic4{
+    width:225px;
+    height:150px;
+}
+.picture{
+    display: inline-block;
+}
+.gallery{
+    margin-left: 5%;
+    height: 325px;
+    width: 90%;
+}
+.black{
+     background-color:rgb(34, 33, 33);
+     height:400px;
+     width: 100%;
+}
+.one{
+
+    display: inline-block;
+    height: 350px;
+    width: 410px;
+    margin-left: 5%;
+}
+
+.two{
+    
+    display: inline-block;
+    height: 250px;
+    width: 300px;
+    border-top:1px solid grey;
+}
+.three{
+    display: inline-block;
+    height: 100px;
+    width: 250px;
+    position: relative;
+    bottom:225px;
+    margin-left: 10px;
+}
+.one1{
+    color: lightgrey;
+    padding: 10px 1px 1px 1px ;
+    font-size: 14px;
+
+}
+.h6one{
+    color: white;
+    font-weight: bold;
+    margin-left: 36%;
+    padding-top: 80px;
+}
+.h6two{
+    color: white;
+    font-weight: bold;
+    margin-left: 1%;
+    padding-bottom: 10px;
+}
+.last{
+      position: relative;
+      bottom:57px;
+      height: 55px;
+      width: 100%;
+      background-color: rgb(43, 132, 216);
+}
+.last1{
+       color: whitesmoke;
+       font-size: 12px;
+       margin-left: 9%;
+       padding-top: 10px;
+}
+.imagel{
+    width:60px;
+    margin-left: 1px;
+    cursor: pointer;
+}
+.imagel1{
+    width:60px;
+    position:fixed;
+    right:30px;
+    bottom:10px;
+    
+}
